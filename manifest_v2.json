@@ -1,0 +1,102 @@
+{
+  "item": {
+    "id": "com.xbmn.midnightwatch",
+    "restype": "quick_app",
+    "name": "熊出没午夜后宫",
+    "description": "深夜值守光头强家，在院子、森林和仓库的监控之间切换。留意角色动向，利用门锁、手电、面具和诱饵维持防线，分配电量，坚持到早上六点。游戏有六个依次解锁的夜晚，含突然惊吓画面。",
+    "preview": [
+      "media/74696.png",
+      "media/74695.png",
+      "media/74694.png",
+      "media/74693.png"
+    ],
+    "icon": "media/74697.png",
+    "cover": "media/74699.jpg",
+    "author": [
+      {
+        "name": "18501",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "官网",
+      "url": "https://xbgw.sxb.asia",
+      "icon": "globe"
+    },
+    {
+      "title": "激活同步器",
+      "url": "https://xbjh.sxb.asia",
+      "icon": "download-simple"
+    },
+    {
+      "title": "QQ群",
+      "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=29%2FBuxTYbdThorSJ%2FXilYI2UY13hvfmLTdMcyakcXfcwlfxrqGJgxSqOFx1BORmo&busi_data=eyJncm91cENvZGUiOiIyMDc4MDM2NTYiLCJ0b2tlbiI6IlZqams4R1dqZUZNSURDUkVndW80YzlQNThNNkg0S0N5RGdYTFc1azlrZlg4dDQwZE5IWG5Jb0dPTGpWVUN6VzgiLCJ1aW4iOiIyOTU1MzU3OTk4In0%3D&data=HD4lIB7e7NkrKoWjwsBNvmvPUxQN_cx14X-zMnzgO-mFnSD_PJXdJm1icC922WMvyEAX-dM0iaLNyQEi6OVs6g&svctype=4&tempid=h5_group_info",
+      "icon": "chat-circle"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.1",
+      "file_name": "downloads/熊出没午夜后宫_红米手表_1.0.1_正式签名.rpk",
+      "versionCode": 3
+    },
+    "xmrw5xring": {
+      "version": "1.0.1",
+      "file_name": "downloads/熊出没午夜后宫_红米手表_1.0.1_正式签名.rpk",
+      "versionCode": 3
+    },
+    "xmrw6": {
+      "version": "1.0.1",
+      "file_name": "downloads/熊出没午夜后宫_红米手表_1.0.1_正式签名.rpk",
+      "versionCode": 3
+    },
+    "xmb10": {
+      "version": "1.0.1",
+      "file_name": "downloads/熊出没午夜后宫_小米手环9-10_1.0.1_正式签名.rpk",
+      "versionCode": 3
+    },
+    "xmb10p": {
+      "version": "1.0.1",
+      "file_name": "downloads/熊出没午夜后宫_小米手环9Pro及10Pro_1.0.1_正式签名.rpk",
+      "versionCode": 3
+    },
+    "xmb11": {
+      "version": "1.0.1",
+      "file_name": "downloads/熊出没午夜后宫_小米手环9-10_1.0.1_正式签名.rpk",
+      "versionCode": 3
+    },
+    "xmb10nfc": {
+      "version": "1.0.1",
+      "file_name": "downloads/熊出没午夜后宫_小米手环9-10_1.0.1_正式签名.rpk",
+      "versionCode": 3
+    },
+    "xmb11nfc": {
+      "version": "1.0.1",
+      "file_name": "downloads/熊出没午夜后宫_小米手环9-10_1.0.1_正式签名.rpk",
+      "versionCode": 3
+    },
+    "xmb9": {
+      "version": "1.0.1",
+      "file_name": "downloads/熊出没午夜后宫_小米手环9-10_1.0.1_正式签名.rpk",
+      "versionCode": 3
+    },
+    "xmb9p": {
+      "version": "1.0.1",
+      "file_name": "downloads/熊出没午夜后宫_小米手环9Pro及10Pro_1.0.1_正式签名.rpk",
+      "versionCode": 3
+    },
+    "xmws4": {
+      "version": "1.0.1",
+      "file_name": "downloads/熊出没午夜后宫_Watch-S系列_1.0.1_正式签名.rpk",
+      "versionCode": 3
+    },
+    "xmws5": {
+      "version": "1.0.1",
+      "file_name": "downloads/熊出没午夜后宫_Watch-S系列_1.0.1_正式签名.rpk",
+      "versionCode": 3
+    }
+  },
+  "ext": {}
+}
