@@ -11,7 +11,7 @@
       "media/74693.png"
     ],
     "icon": "media/74697.png",
-    "cover": "media/74699.jpg",
+    "cover": "media/74836.jpg",
     "author": [
       {
         "name": "18501",
@@ -98,5 +98,14 @@
       "versionCode": 3
     }
   },
-  "ext": {}
+  "ext": {
+    "bundledResources": {
+      "recommended": [
+        {
+          "type": "plugin",
+          "id": "雪碧同步器"
+        }
+      ]
+    }
+  }
 }
